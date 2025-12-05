@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "燈",
+  "base_artist": "Soushi Sakiyama",
+  "createdAt": "2025-12-05T11:11:24.158026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "燈",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/01_燈_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "燈",
+      "artist": "崎山蒼志",
+      "has_synced": true,
+      "path": "select/02_燈_崎山蒼志.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "燈",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/03_燈_FLOW.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "燈",
+      "artist": "童安格",
+      "has_synced": false,
+      "path": "select/04_燈_童安格.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "燈",
+      "artist": "Soushi Sakiyama",
+      "has_synced": false,
+      "path": "select/pl_01_燈_Soushi_Sakiyama.txt"
+    }
+  ]
+}
